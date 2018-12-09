@@ -1,0 +1,255 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+	background-image: url(../Img/fon.png);
+    height: 672px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    color: #ffffff;
+    margin-top: 80px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    height: 25px;   
+}
+
+.biglogo {
+    color: #b7b7b7;
+    margin-top: 190px;
+    font-size: 23px;
+    font-family: monospace;
+    
+}
+
+.log2 {
+    color: #ffffff;
+    font-size: 63px;
+}
+
+.txt {
+    color:#b7b7b7;
+    font-size: 14px;
+    font-family: monospace;
+}
+
+.whiteblock {
+    background-color: white;
+    height: 734px;
+}
+
+.whiteblocktxt1 {
+    color: black;
+    font-size: 30px;
+    font-family: monospace;
+    padding-top: 60px;
+}
+
+.whiteblocktxt2 {
+    color: black;
+    font-size: 13px;
+    font-family: monospace;
+    padding-top: 60px;
+}
+
+.gallery {
+    padding-top: 60px;
+    height: 508px;
+}
+
+.hed {
+    height: 508px;
+}
+
+.pict1 {
+    height: 202px;
+    background-image: url(../Img/pic1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.pict2 {
+    height: 265px;
+    background-image: url(../Img/pic2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.pict3 {
+    height: 306px;
+    background-image: url(../Img/pic3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.pict4 {
+    height: 110px;
+    background-image: url(../Img/pic4.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.pict5 {
+    height: 243px;
+    background-image: url(../Img/pic5.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.pict6 {
+    height: 133px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(../Img/pic6.png);
+}
+
+.fon2 {
+    height: 326px;
+    background-image: url(../Img/fon3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 0;
+}
+
+.btnborder{
+    position: relative;
+    border: 1px solid white;
+    top: 100px;
+    height: 36px;
+}
+
+.btn {
+    border-width: 1px;
+    border-color: rgb(255, 255, 255); 
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+
+}
+
+.btnTxt {
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 25px;
+    width: 100%;
+    height: 100%;
+}
+
+.paragrp {
+    position: relative;
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 12px;
+    top: 100px;
+    margin-top: 30px;
+}
+
+#whitebox2 {
+    background-color: white;
+    height: 510px;
+}
+
+.Headline {
+    margin-top: 70px;
+}
+
+.Headlinetxt {
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+#Question {
+    font-size: 30px;
+    font-family: monospace;
+    margin-top: 70px;
+}
+
+#Answer {
+    font-family: monospace;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+#statistics {
+    margin-top: 36px;
+    background-color: #f5f5f5;
+    height: 70px;
+}
+
+.table {
+    text-align: center;
+    font-family: monospace;
+}
+
+.figure {
+    font-size: 27px;
+    margin-top: 16px;
+}
+
+.inf {
+    font-size: 17px;
+    position: relative;
+    bottom: 8px;
+}
+
+.footer {
+    height: 1018px;
+    background-image: url(../Img/fon4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+}
+
+.btnborder1 {
+    position: absolute;
+    border: 1px solid white;
+    top: 120px;
+    height: 36px;
+}
+
+.parag {
+    position: absolute;
+    top: 150px;
+    color: white;
+    font-family: monospace;
+    font-size: 15px;
+    text-align: center;
+    margin: 0;
+}
+
+#player {
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 0px 0px 21px 0px rgba(0, 0, 0, 0.4);
+    top: 340px;
+    width: 100%;
+    height: 440px;
+    z-index: 0;
+}
+
+#itempl {
+    top: 200px;
+    left: 48%;
+    position: relative;
+}
+
+.logoend {
+    text-align: center;
+    position: relative;
+    top: 420px;
+    color: white;
+    font-family: monospace;
+    font-size: 21px;
+}
